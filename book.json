@@ -1,8 +1,8 @@
 {
-  "plugins": ["disqus"],
-  "pluginsConfig": {
-    "disqus": {
-      "shortName": "helloworld"
+    "plugins": ["disqus"],
+    "pluginsConfig": {
+        "disqus": {
+            "shortName": "introducetogitbook"
+        }
     }
-  }
 }
